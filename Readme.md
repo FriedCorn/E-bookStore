@@ -16,7 +16,9 @@
 - Update book
 - Confirm/Cancel order
 
-# Customer
+# Models
+
+## Customer
 
 - ID *!
 - Email *!
@@ -27,7 +29,7 @@
 - DOB
 - Sex
 
-# Staff
+## Staff
 
 - ID *!
 - Email *!
@@ -38,7 +40,7 @@
 - DOB
 - Sex
 
-# Book
+## Book
 
 - Name *
 - Publishing Year *
@@ -46,7 +48,7 @@
 - Author
 - Quantity
 
-# Order
+## Order
 
 - Create Date
 - Customer ID
