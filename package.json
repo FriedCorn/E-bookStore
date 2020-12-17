@@ -1,0 +1,23 @@
+{
+  "name": "e-bookstore",
+  "version": "1.0.0",
+  "description": "- Search book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FriedCorn/E-bookStore.git"
+  },
+  "author": "Khoa Ngo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FriedCorn/E-bookStore/issues"
+  },
+  "homepage": "https://github.com/FriedCorn/E-bookStore#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0"
+  }
+}
